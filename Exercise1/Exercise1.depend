@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522962035 source:c:\users\user\desktop\my first c++\c++ exercise\chapter1\exercise1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+
